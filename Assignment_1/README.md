@@ -1,3 +1,5 @@
+Decision tree has been implemented using the ID3 algorithm.
+
 To run the decision tree implemented: python decision_tree.py
 
 To run the decision tree implemented using scikit-learn: python decision_tree_library.py
